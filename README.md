@@ -59,3 +59,31 @@ https://real-estate-a2d60.web.app/
 
 In this website Property list and View Property details is under private routes...so if any user want to visite this routes they need to login first 
 
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/anamikagain559/HomeHaven.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
