@@ -1,0 +1,168 @@
+[
+    {
+        "id": 1,
+        "estate_title": "Modern Apartment in City Center",
+        "segment_name": "Residential",
+        "description": "A stunning modern apartment located in the heart of the city center. Spacious living area with beautiful views.",
+        "price": "$500,000",
+        "status": "rent",
+        "area": "2000 sq ft",
+        "location": "City Center, New York",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "facilities": ["living room", "swimming pool", "kitchen"],
+        "image": "https://i.ibb.co/rFHGgNk/image12.jpg",
+        "details": {
+            "images": ["https://i.ibb.co/BqMpLW6/image11.jpg", "https://i.ibb.co/BqMpLW6/image7.jpg", "https://i.ibb.co/BqMpLW6/image3.jpg"]
+          }
+      },
+      {
+        "id": 2,
+        "estate_title": "Luxury Villa with Ocean View",
+        "segment_name": "Residential",
+        "description": "An exquisite luxury villa offering breathtaking views of the ocean. Perfect for relaxation and entertainment.",
+        "price": "$1,200,000",
+        "status": "rent",
+        "area": "3500 sq ft",
+        "location": "Malibu, California",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "facilities": ["living room", "swimming pool", "kitchen", "garden"],
+        "image": "https://i.ibb.co/BqMpLW6/image7.jpg"
+        ,
+        "details": {
+            "images": ["https://i.ibb.co/J2MxWqt/image2.jpg", "https://i.ibb.co/BqMpLW6/image11.jpg", "https://i.ibb.co/rFHGgNk/image12.jpg"]
+          }
+      },
+      {
+        "id": 3,
+        "estate_title": "Cozy Cottage in the Countryside",
+        "segment_name": "Residential",
+        "description": "A charming cottage nestled in the serene countryside. Ideal for those seeking peace and tranquility.",
+        "price": "$300,000",
+        "status": "sale",
+        "area": "1500 sq ft",
+        "location": "Countryside, England",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "facilities": ["living room", "garden"],
+        "image": "https://i.ibb.co/zSM8MDh/frame2.jpg",
+        "details": {
+            "images": ["https://i.ibb.co/BqMpLW6/image8.jpg", "https://i.ibb.co/rFHGgNk/image12.jpg", "https://i.ibb.co/BqMpLW6/image11.jpg"]
+          }
+      },
+      {
+        "id": 4,
+        "estate_title": "Downtown Loft with City Views",
+        "segment_name": "Residential",
+        "description": "A stylish loft apartment located in the vibrant downtown area. Offers panoramic views of the city skyline.",
+        "price": "$700,000",
+        "status": "sale",
+        "area": "1800 sq ft",
+        "location": "Downtown, San Francisco",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "facilities": ["living room", "rooftop terrace", "gym"],
+        "image": "https://i.ibb.co/nQFkbxY/frame1.jpg",
+        "details": {
+            "images": ["https://i.ibb.co/mFkK1MS/image3.jpg", "https://i.ibb.co/BqMpLW6/image11.jpgg", "https://i.ibb.co/8r2LYNp/image7.jpg"]
+          }
+      },
+      {
+        "id": 5,
+        "estate_title": "Beachfront Condo with Resort Amenities",
+        "segment_name": "Residential",
+        "description": "A luxurious beachfront condo with access to resort-style amenities. Enjoy direct access to the beach.",
+        "price": "$900,000",
+        "status": "sale",
+        "area": "2200 sq ft",
+        "location": "Miami Beach, Florida",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "facilities": ["living room", "swimming pool", "beach access", "gym"],
+        "image": "https://i.ibb.co/mFkK1MS/image3.jpg",
+        "details": {
+            "images": ["https://i.ibb.co/BqMpLW6/image11.jpg", "https://i.ibb.co/xH5Cf3g/image5.jpg", "https://i.ibb.co/8r2LYNp/image7.jpg"]
+          }
+      },
+      {
+        "id": 6,
+        "estate_title": "Spacious Family Home with Garden",
+        "segment_name": "Residential",
+        "description": "A spacious family home featuring a large garden and ample living space. Perfect for families.",
+        "price": "$600,000",
+        "status": "sale",
+        "area": "2500 sq ft",
+        "location": "Suburban Area, Chicago",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "facilities": ["living room", "garden", "garage"],
+        "image": "https://i.ibb.co/WvX5S8v/image6.jpg",
+        "details": {
+            "images": ["https://i.ibb.co/WvX5S8v/image8.jpg", "https://i.ibb.co/zSM8MDh/frame2.jpg", "https://i.ibb.co/8r2LYNp/image7.jpg"]
+          }
+      },
+      {
+        "id": 7,
+        "estate_title": "Chic Urban Apartment with Balcony",
+        "segment_name": "Residential",
+        "description": "A chic urban apartment with modern amenities and a private balcony. Located in a trendy neighborhood.",
+        "price": "$400,000",
+        "status": "sale",
+        "area": "1200 sq ft",
+        "location": "Urban Area, Los Angeles",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "facilities": ["living room", "balcony", "gym"],
+        "image": "https://i.ibb.co/8r2LYNp/image7.jpg",
+        "details": {
+            "images": ["https://i.ibb.co/zSM8MDh/frame2.jpg", "https://i.ibb.co/PhJdM9f/image10.jpg", "https://i.ibb.co/xH5Cf3g/image5.jpg"]
+          }
+      },{
+      "id": 8,
+      "estate_title": "Mountain Retreat with Scenic Views",
+      "segment_name": "Residential",
+      "description": "A peaceful mountain retreat offering stunning views of the surrounding landscape. Perfect for nature lovers.",
+      "price": "$800,000",
+      "status": "sale",
+      "area": "3000 sq ft",
+      "location": "Mountain Area, Colorado",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "facilities": ["living room", "garden", "deck", "3 bedrooms", "2 bathrooms"],
+      "image": "https://i.ibb.co/zSM8MDh/frame2.jpg",
+      "details": {
+        "images": ["https://i.ibb.co/Xtj0MHj/image1.jpg", "https://i.ibb.co/Xtj0MHj/image2.jpg", "https://i.ibb.co/Xtj0MHj/image3.jpg"]
+      }
+    },
+    {
+      "id": 9,
+      "estate_title": "Riverside Villa with Private Dock",
+      "segment_name": "Residential",
+      "description": "A luxurious riverside villa with a private dock for boat access. Enjoy scenic views and waterfront living.",
+      "price": "$1,500,000",
+      "status": "sale",
+      "area": "4000 sq ft",
+      "location": "Riverside, New Orleans",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "facilities": ["living room", "swimming pool", "private dock", "6 bedrooms", "4 bathrooms"],
+      "image": "https://i.ibb.co/nQFkbxY/frame1.jpg",
+      "details": {
+        "images": ["https://i.ibb.co/5vTC805/image8.jpg", "https://i.ibb.co/5vTC805/image7.jpg", "https://i.ibb.co/5vTC805/image10.jpg"]
+      }
+    }
+  ]
+  
+  
+
+
+
+
+
+
+
+
+
+
+
